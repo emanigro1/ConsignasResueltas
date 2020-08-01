@@ -9,7 +9,7 @@ Actividades en JS
 
 4.Mostrar las primeras 4 letras del texto.  slice 
 
-5.Mostrar la última palabra del texto. slice lastIndexOf 
+5.Mostrar la última palabra del texto. slice lastIndexOf
 
 6. Mostrar la letra del medio o la más cercana al medio. charAt 
 
